@@ -11,6 +11,9 @@ print(num1)
 print(num2)
 print(num3)
 
+num4=1+1
+print(num4)
+
 
 num1=11/5      #정수로 입력해도 결과는 실수로 나옴
 num2=11//5     #이건 몫

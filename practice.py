@@ -6,7 +6,8 @@
 #touched by user 2
 #이제 2학년 됨
 
-
+print("HUFS)
+pritnt (2)
 
 
 #2주차 이론실습(이 #이 주석달기임)

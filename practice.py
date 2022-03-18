@@ -1,8 +1,12 @@
 #202101546 산업경영공학과 박지영
 
+
+
 #이중전공 컴퓨터공학과 
 #touched by user 2
 #이제 2학년 됨
+
+
 
 
 #2주차 이론실습(이 #이 주석달기임)
@@ -13,8 +17,12 @@ print(num1)
 print(num2)
 print(num3)
 
+
+print(num1)
+
 num4=1+1
 print(num4)
+
 
 
 num1=11/5      #정수로 입력해도 결과는 실수로 나옴

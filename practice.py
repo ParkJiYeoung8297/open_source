@@ -13,6 +13,7 @@ print(num1)
 print(num2)
 print(num3)
 
+print(num1)
 
 num1=11/5      #정수로 입력해도 결과는 실수로 나옴
 num2=11//5     #이건 몫

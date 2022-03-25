@@ -6,7 +6,7 @@
 #touched by user 2
 #이제 2학년 됨
 
-print("HUFS)
+print("HUFS")   # fix missing quotation mark
 pritnt (2)
 
 print("Hello")

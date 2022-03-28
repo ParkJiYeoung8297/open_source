@@ -9,7 +9,7 @@
 print("HUFS")   # fix missing quotation mark
 pritnt (2)
 
-print("Hello")
+
       
       
 #2주차 이론실습(이 #이 주석달기임)

@@ -19,8 +19,8 @@ const makeCombinationTitle = (elem, color, loc) => {
  * @param elem - \#combi-color-div
  * @param {string} colors - 
  */
- const makecombiPaletteDiv = (elem, colors) => {
-    elem.innerText += ` ${colors}`;
+ const makecombiPaletteDiv = (elem, color) => {
+    elem.innerText += ` ${color}`;
 }
 
 /**
@@ -93,6 +93,10 @@ const makePickedColorBoxToColored = (elem, colorCode) => {
 
             // ------------- ADD YOUR CODE HERE --------------
             // TODO: MAKE COMBINATION COLOR LIST FROM combinationList
+            const targetColor = combinationList[0];
+            const targetColorCode = getColorCode(targetColor);
+                // targetColorCode == "ff0000"
+            makecombiPaletteDiv(combiPaletteDiv,targetColor)
 
         } catch (e) {
             console.log(e);

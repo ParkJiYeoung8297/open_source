@@ -15,6 +15,15 @@ const makeCombinationTitle = (elem, color, loc) => {
 }
 
 /**
+ * make #combi-color-div to `Cloth Color Combination : ${color}, ${color},${color}`
+ * @param elem - \#combi-color-div
+ * @param {string} colors - 
+ */
+ const makecombiPaletteDiv = (elem, colors) => {
+    elem.innerText += ` ${colors}`;
+}
+
+/**
  * get current url
  * @returns {string}
  */

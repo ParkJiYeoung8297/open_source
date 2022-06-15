@@ -11,7 +11,7 @@ print("HUFS")   # fix missing quotation mark
 pritnt (2)
 
 print("Hello")
-      
+print("This is Python practice")      
       
 #2주차 이론실습(이 #이 주석달기임)
 num1=10*2-7/3

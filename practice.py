@@ -1,4 +1,5 @@
-#202101546 산업경영공학과 박지영
+#202101546 
+#산업경영공학과 박지영
 
 
 
@@ -6,11 +7,16 @@
 #touched by user 2
 #이제 2학년임
 
+
 print("HUFS)
 print (2)
 
+print("HUFS")   # fix missing quotation mark
+pritnt (2)
+
+
 print("Hello")
-      
+print("This is Python practice")      
       
 #2주차 이론실습(이 #이 주석달기임)
 num1=10*2-7/3

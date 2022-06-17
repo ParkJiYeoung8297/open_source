@@ -5,10 +5,15 @@
 
 #이중전공 컴퓨터공학과 
 #touched by user 2
-#이제 2학년 됨
+#이제 2학년임
+
+
+print("HUFS)
+print (2)
 
 print("HUFS")   # fix missing quotation mark
 pritnt (2)
+
 
 print("Hello")
 print("This is Python practice")      

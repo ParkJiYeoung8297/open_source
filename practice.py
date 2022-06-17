@@ -4,10 +4,10 @@
 
 #이중전공 컴퓨터공학과 
 #touched by user 2
-#이제 2학년 됨
+#이제 2학년임
 
 print("HUFS)
-pritnt (2)
+print (2)
 
 print("Hello")
       
